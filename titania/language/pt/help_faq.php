@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* help_faq [English]
+* help_faq [portuguese]
 *
 * @package Titania language
 * @version $Id: help_faq.php
