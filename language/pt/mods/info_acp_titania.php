@@ -1,7 +1,7 @@
 <?php
 /**
 * titania acp language [portuguese]
-*
+* Teste
 * @package language
 * @version $Id$
 * @copyright (c) 2008 phpBB Customisation Database Team
