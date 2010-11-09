@@ -1,0 +1,10 @@
+Subject: Notificação - {NAME}
+
+Olá {USERNAME},
+
+Está a receber esta notificação porque escolheu ser notificado de novos items na Base de Dados Personalizada.
+
+Foi criado recentemente o item "{NAME}".
+
+Pode ver o item no seguinte endereço:
+{U_VIEW}
