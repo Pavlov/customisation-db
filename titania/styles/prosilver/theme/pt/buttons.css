@@ -1,0 +1,32 @@
+.buttons div.faq-icon { 
+	width: 96px; 
+	height: 25px; 
+}
+
+div.faq-icon span {
+	background-image: url("./button_faq_new.gif");
+}
+
+.buttons div.contrib-icon { 
+	width: 159px; 
+	height: 25px; 
+}
+
+div.contrib-icon span {
+	background-image: url("./button_contrib_new.gif");
+}
+
+.buttons div.category-icon { 
+	width: 135px; 
+	height: 25px; 
+}
+
+div.category-icon span {
+	background-image: url("./button_category_new.gif");
+}
+
+.download-button {
+	background-image: url("./button_download.gif");
+	width: 175px;
+	height: 57px;
+}
