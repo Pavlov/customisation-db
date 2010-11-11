@@ -1,0 +1,19 @@
+Subject: Amigo em "{SITENAME}"
+
+Olá {TO_USERNAME},
+
+Este email foi enviado de "{SITENAME}" por {FROM_USERNAME} que pensou estar interessado no seguinte:
+{CONTRIB_NAME}
+
+Pode fazer a transferência do seguinte endereço:
+{U_CONTRIB}
+
+Esta é uma mensagem automática que não foi vista nem aprovada por nenhum Administrador de (SITENAME}.
+Se desejar queixar-se sobre a recepção deste email por favor contate o Administrador usando o seguinte endereço:
+{BOARD_CONTACT}.
+
+Envie o cabeçalho desta mensagem.
+
+----------
+
+{MESSAGE}

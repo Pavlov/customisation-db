@@ -1,0 +1,8 @@
+Subject: Tópico {TOPIC_TITLE} reprovado
+
+Olá {USERNAME},
+
+O seu Tópico "{TOPIC_TITLE}" em {SITENAME} não foi aprovado por um moderador ou administrador
+
+
+{EMAIL_SIG}

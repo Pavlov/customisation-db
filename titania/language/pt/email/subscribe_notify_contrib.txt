@@ -1,0 +1,8 @@
+Subject: Notificação - {NAME}
+
+Olá {USERNAME},
+
+Está a receber esta notificação porque escolheu ser notificado no item "{NAME}" da contribuição "{CONTRIB_NAME}" da Base de Dados Personalizada.
+
+Pode ver a atualização em:
+{U_VIEW}
